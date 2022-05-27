@@ -6,4 +6,6 @@ Tested on Polygon network only, not Ethereum network!
 
 Watch the video for details.
 
+Telegram : https://t.me/geokomplo
+
 [![Opensea-Bulk-NFT-Sender](https://yt-embed.herokuapp.com/embed?v=9MstD2Z4fYg)](https://www.youtube.com/watch?v=9MstD2Z4fYg"Opensea-Bulk-NFT-Sender")
